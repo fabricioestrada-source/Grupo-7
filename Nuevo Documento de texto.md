@@ -32,7 +32,7 @@ Somos un equipo de seis estudiantes de Ingeniería Biomédica, comprometidos con
 
 ### 3. Ángela Chavez
 
-![Foto Angela](https://drive.google.com/file/d/1N-_ACjONEsitVMg3hpXmHhA1IX34cJD4/view?usp=drivesdk)
+![Foto Angela](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Angela.jpg)
 
 **Carrera:** Ingeniería Biomédica  
 **DNI:** 76338798  
