@@ -10,7 +10,7 @@ Somos un equipo de seis estudiantes de Ingeniería Biomédica, comprometidos con
 
 ### 1. Fabricio Estrada 
 
-![Foto Fabricio](https://drive.google.com/file/d/1-zNi0Q9aFlewy4stdCsLKJmrnIK5CdZH/view?usp=drivesdk)
+![Foto Fabricio](https://github.com/fabricioestrada-source/Grupo-7/blob/main/f3cee043-fec0-4553-be3a-21e11c44745e.jpg)
 
 **Carrera:** Ingeniería Biomédica  
 **DNI:** 70635581  
@@ -21,7 +21,7 @@ Somos un equipo de seis estudiantes de Ingeniería Biomédica, comprometidos con
 
 ### 2. Jairo Cochachin
 
-![Foto Jairo](https://drive.google.com/file/d/19qrgLdlPktJRNnRa09t9WVnkisDo7NFk/view?usp=drivesdk)
+![Foto Jairo](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Jairo.jpg)
 
 **Carrera:** Ingeniería Biomédica  
 **DNI:** 60957870  
@@ -43,7 +43,7 @@ Somos un equipo de seis estudiantes de Ingeniería Biomédica, comprometidos con
 
 ### 4. Carla Chumbe
 
-![Foto Carla](https://drive.google.com/file/d/1oyMLSwDU1Uj4kL-yD2uuyEXARFs-2ADn/view?usp=drivesdk)
+![Foto Carla](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Carla.jpg)
 
 **Carrera:** Ingeniería Biomédica  
 **DNI:** 61071807 
@@ -54,7 +54,7 @@ Somos un equipo de seis estudiantes de Ingeniería Biomédica, comprometidos con
 
 ### 5. Arnie Collachagua
 
-![Foto Arnie](https://drive.google.com/file/d/1Jzk_Tu6UqNqhIkkmfflj7KV_hhCJBTEL/view?usp=drivesdk)
+![Foto Arnie](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Arnie.jpg)
 
 **Carrera:** Ingeniería Biomédica  
 **DNI:** 78548992  
@@ -65,7 +65,7 @@ Somos un equipo de seis estudiantes de Ingeniería Biomédica, comprometidos con
 
 ### 6. Lindsey Duran
 
-![Foto Lindsey](https://drive.google.com/file/d/1539JOoX0icGr5FfjawCOHukbw9nOpYIy/view?usp=drivesdk)
+![Foto Lindsey](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Lindsey.jpg)
 
 **Carrera:** Ingeniería Biomédica  
 **DNI:** 76414112  
