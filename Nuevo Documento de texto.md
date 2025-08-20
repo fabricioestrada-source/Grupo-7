@@ -1,6 +1,6 @@
 # Presentación del Grupo 7 
 
-![Foto grupal]()
+![Foto grupal](https://github.com/fabricioestrada-source/Grupo-7/blob/main/grupo.jpg)
 
 Somos un equipo de seis estudiantes de Ingeniería Biomédica, comprometidos con la innovación en el área de la salud y la tecnología. Nuestro objetivo es desarrollar soluciones que mejoren la calidad de vida de las personas a través del conocimiento interdisciplinario.
 
