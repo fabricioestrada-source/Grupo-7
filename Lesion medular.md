@@ -1,5 +1,4 @@
-
-Lesión Medular
+# Lesión Medular
 
 1. Ficha de la enfermedad
 La lesión medular (LM) es una condición neurológica producida por daño directo o indirecto de la médula espinal, lo que interrumpe parcial o totalmente la conducción de señales nerviosas entre el cerebro y el resto del cuerpo. Esta estructura se extiende desde el bulbo raquídeo hasta la región lumbar, protegida por las vértebras, meninges y líquido cefalorraquídeo [1].
@@ -91,7 +90,8 @@ Por ello, existe una clara oportunidad de innovación en biomateriales para rege
 ---
 
 ### Referencias (formato IEEE)
-1. World Health Organization: WHO, «Spinal cord injury», 16 de abril de 2024.  
-2. C. S. Ahuja et al., «Traumatic Spinal Cord Injury—Repair and Regeneration», *Neurosurgery*, vol. 80, n.º 3S, pp. S9-S22, feb. 2017, doi: 10.1093/neuros/nyw080.  
-3. National Spinal Cord Injury Statistical Center, *Traumatic Spinal Cord Injury Facts and Figures at a Glance*. Birmingham, AL: University of Alabama at Birmingham, 2024.  
-4. «Centers for Disease Control and Prevention», CDC. https://www.cdc.gov/
+[1]. World Health Organization: WHO, «Spinal cord injury», 16 de abril de 2024.  
+[2]. C. S. Ahuja et al., «Traumatic Spinal Cord Injury—Repair and Regeneration», *Neurosurgery*, vol. 80, n.º 3S, pp. S9-S22, feb. 2017, doi: 10.1093/neuros/nyw080.  
+[3]. National Spinal Cord Injury Statistical Center, *Traumatic Spinal Cord Injury Facts and Figures at a Glance*. Birmingham, AL: University of Alabama at Birmingham, 2024.  
+[4]. «Centers for Disease Control and Prevention», CDC. https://www.cdc.gov/
+
