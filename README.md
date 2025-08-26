@@ -21,7 +21,7 @@ A través de este curso, buscamos **formarnos como futuros ingenieros capaces de
 - **Edad:** 18 años 🎂  
 - **Carrera:** Ingeniería Biomédica 🧠  
 - **DNI:** 70635581 🪪  
-- **Áreas de interés:** ⚙️ Ingeniería clínica, 🩺 Biomecánica  
+- **Áreas de interés:** 🩺 Ingeniería clínica,  🦾 Biomecánica  
 - **Correo:** ✉️ fabricio.estrada@upch.pe  
 
 ---
@@ -42,10 +42,10 @@ A través de este curso, buscamos **formarnos como futuros ingenieros capaces de
 
 ![Foto Angela](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Angela%201.jpg)
 
-- **Edad:** 21 años 🎂  
+- **Edad:** 19 años 🎂  
 - **Carrera:** Ingeniería Biomédica 🧠  
 - **DNI:** 76338798 🪪  
-- **Áreas de interés:** 📡 Señales biomédicas, 🖥️ Imagenología  
+- **Áreas de interés:** 📡 Ingeniería de tejidos 
 - **Correo:** ✉️ angela.chavez@upch.pe  
 
 ---
