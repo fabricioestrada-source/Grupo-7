@@ -1,6 +1,6 @@
 # 👥✨ Presentación del Grupo 7 ✨👥
 
-![Foto grupal](https://github.com/fabricioestrada-source/Grupo-7/blob/main/grupo-fotor-20250825225740.jpg)
+![Foto grupal](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Foto%20grupo.jpg)
 
 Somos el **Grupo 7** del curso *Fundamentos de Biodiseño*, conformado por seis estudiantes de **Ingeniería Biomédica** de la Universidad Peruana Cayetano Heredia.  
 Nuestro equipo se caracteriza por la **creatividad, la rigurosidad científica y el compromiso con la innovación en salud**.  
