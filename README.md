@@ -108,4 +108,4 @@ En síntesis, buscamos ser un equipo que **une ciencia, tecnología y humanidad*
 
 Facultad de Ciencia e Ingeniería, **Universidad Peruana Cayetano Heredia**  
 
-![imagen FACI](https://github.com/fabricioestrada-source/Grupo-7/blob/main/OIP.jpg)
+![imagen FACI](https://github.com/fabricioestrada-source/Grupo-7/blob/main/fci.jpg)
