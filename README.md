@@ -1,6 +1,6 @@
 # 👥✨ Presentación del Grupo 7 ✨👥
 
-![Foto grupal](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Foto%20grupo.jpg)
+![Foto grupal](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Presentacion/Foto%20grupo.jpg)
 
 Somos el **Grupo 7** del curso *Fundamentos de Biodiseño*, conformado por seis estudiantes de **Ingeniería Biomédica** de la Universidad Peruana Cayetano Heredia.  
 Nuestro equipo se caracteriza por la **creatividad, la rigurosidad científica y el compromiso con la innovación en salud**.  
@@ -16,7 +16,7 @@ A través de este curso, buscamos **formarnos como futuros ingenieros capaces de
 
 ### 1. 🧑‍🔬 Fabricio Estrada  
 
-![Foto Fabricio](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Fabricio%201.jpg)
+![Foto Fabricio](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Presentacion/Fabricio%201.jpg)
 
 - **Edad:** 18 años 🎂  
 - **Carrera:** Ingeniería Biomédica 🧠  
@@ -28,7 +28,7 @@ A través de este curso, buscamos **formarnos como futuros ingenieros capaces de
 
 ### 2. 🧑‍⚕️ Jairo Cochachin  
 
-![Foto Jairo](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Jairo%201.jpg)
+![Foto Jairo](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Presentacion/Jairo%201.jpg)
 
 - **Edad:** 18 años 🎂  
 - **Carrera:** Ingeniería Biomédica 🧠  
@@ -40,7 +40,7 @@ A través de este curso, buscamos **formarnos como futuros ingenieros capaces de
 
 ### 3. 👩‍💻 Ángela Chavez  
 
-![Foto Angela](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Angela%201.jpg)
+![Foto Angela](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Presentacion/Angela%201.jpg)
 
 - **Edad:** 19 años 🎂  
 - **Carrera:** Ingeniería Biomédica 🧠  
@@ -52,7 +52,7 @@ A través de este curso, buscamos **formarnos como futuros ingenieros capaces de
 
 ### 4. 🤖 Carla Chumbe  
 
-![Foto Carla](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Carla%201.jpg)
+![Foto Carla](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Presentacion/Carla%201.jpg)
 
 - **Edad:** 18 años 🎂  
 - **Carrera:** Ingeniería Biomédica 🧠  
@@ -64,7 +64,7 @@ A través de este curso, buscamos **formarnos como futuros ingenieros capaces de
 
 ### 5. 🛠️ Arnie Collachagua  
 
-![Foto Arnie](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Arnie.jpg)
+![Foto Arnie](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Presentacion/Arnie.jpg)
 
 - **Edad:** 19 años 🎂  
 - **Carrera:** Ingeniería Biomédica 🧠  
@@ -76,7 +76,7 @@ A través de este curso, buscamos **formarnos como futuros ingenieros capaces de
 
 ### 6. 🌐 Lindsey Duran  
 
-![Foto Lindsey](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Lindsey%201.jpg)
+![Foto Lindsey](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Presentacion/Lindsey%201.jpg)
 
 - **Edad:** 20 años 🎂  
 - **Carrera:** Ingeniería Biomédica 🧠  
@@ -108,4 +108,4 @@ En síntesis, buscamos ser un equipo que **une ciencia, tecnología y humanidad*
 
 Facultad de Ciencia e Ingeniería, **Universidad Peruana Cayetano Heredia**  
 
-![imagen FACI](https://github.com/fabricioestrada-source/Grupo-7/blob/main/fci.jpg)
+![imagen FACI](https://github.com/fabricioestrada-source/Grupo-7/blob/main/Presentacion/fci.jpg)
