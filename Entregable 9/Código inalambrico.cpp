@@ -11,10 +11,10 @@
 #include <BLE2902.h>
 
 // --- PINES ---
-const int VIBRATION_MOTOR_1_PIN = 12; // D12
-const int VIBRATION_MOTOR_2_PIN = 13; // D13
-const int VIBRATION_MOTOR_3_PIN = 14; // D14
-const int ROCKET_SWITCH_PIN = 27;     // D27
+const int VIBRATION_MOTOR_1_PIN = 32; // D32
+const int VIBRATION_MOTOR_2_PIN = 33; // D33
+const int VIBRATION_MOTOR_3_PIN = 25; // D25
+const int ROCKET_SWITCH_PIN = 35;     // D35
 const int HEATER_RELAY_PIN = 26;      // D26
 const int BATTERY_PIN = 34;           // PIN ADC PARA LEER BATERÍA (Requiere divisor de voltaje!)
 
