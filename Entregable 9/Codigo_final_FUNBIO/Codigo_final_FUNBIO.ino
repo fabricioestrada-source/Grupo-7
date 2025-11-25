@@ -72,7 +72,7 @@ const uint8_t SHT1_ADDR = 0x44;
 const uint8_t SHT2_ADDR = 0x45;
 
 // Bluetooth name
-const char* BTNAME = "ESP32_VIBRA_C";
+const char* BTNAME = "ESP32_G7";
 
 // ---------- PROTOTYPES ----------
 void updateDisplayOptionC(const sensors_event_t &a, float t1, float h1, float t2, float h2);
